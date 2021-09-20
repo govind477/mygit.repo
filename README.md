@@ -1,0 +1,2 @@
+# mygit.repo
+Basic cli
